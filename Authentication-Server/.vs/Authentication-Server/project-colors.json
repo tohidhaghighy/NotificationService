@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc200564-eb75-4e17-bcad-09cc8a3fc38e": {
+      "ProjectGuid": "dc200564-eb75-4e17-bcad-09cc8a3fc38e",
+      "DisplayName": "Authentication-Server",
+      "ColorIndex": 0
+    },
+    "aab87c79-e0a0-4d4a-ab81-9cb245a3ec9d": {
+      "ProjectGuid": "aab87c79-e0a0-4d4a-ab81-9cb245a3ec9d",
+      "DisplayName": "Authentication-Server.Domain",
+      "ColorIndex": 1
+    },
+    "8555f708-8c13-4169-af45-2c23dcb6d69d": {
+      "ProjectGuid": "8555f708-8c13-4169-af45-2c23dcb6d69d",
+      "DisplayName": "Authentication-Server.Test",
+      "ColorIndex": 2
+    },
+    "90130e31-3a01-4637-8240-8bd70fa38556": {
+      "ProjectGuid": "90130e31-3a01-4637-8240-8bd70fa38556",
+      "DisplayName": "Authentication-Server.Infrastructure",
+      "ColorIndex": 3
+    },
+    "dbae27dc-ba7d-4085-864b-a83c9722d3a2": {
+      "ProjectGuid": "dbae27dc-ba7d-4085-864b-a83c9722d3a2",
+      "DisplayName": "Authentication-Server.Application",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
